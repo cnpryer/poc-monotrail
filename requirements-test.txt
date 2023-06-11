@@ -1,3 +1,4 @@
+wheel==0.40.0
 maturin[zig]==1.0.0b7
 pytest>=7.1.2,<8.0
 jupyter==1.0.0
